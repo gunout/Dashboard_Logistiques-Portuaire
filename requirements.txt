@@ -1,3 +1,9 @@
-pip install streamlit pandas plotly requests beautifulsoup4 reportlab xlsxwriter
+streamlit 
+pandas 
+plotly 
+requests 
+beautifulsoup4 
+reportlab 
+xlsxwriter
 
 
