@@ -6,4 +6,4 @@ beautifulsoup4
 reportlab 
 xlsxwriter
 matplotlib
-
+seaborn
